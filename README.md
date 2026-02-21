@@ -121,7 +121,7 @@ $nama_db = "ukk";
 
 Buka browser dan akses:
 ```
-http://localhost/ujian%20lab%20riskhan/
+http://localhost/ujian%20lab%20werry/
 ```
 atau:
 ```
