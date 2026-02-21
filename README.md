@@ -76,7 +76,7 @@ CREATE TABLE produk (
 **1. Clone atau copy project**
 ```bash
 # Jika menggunakan Git
-git clone https://github.com/shizukaudzri/ujian-lab-Werry.git
+git clone https://github.com/werry/ujian-lab-Werry.git
 
 # Letakkan folder di dalam:
 C:/xampp/htdocs/ujian lab werry/
