@@ -79,7 +79,7 @@ CREATE TABLE produk (
 git clone https://github.com/shizukaudzri/ujian-lab-Shizukaa.git
 
 # Letakkan folder di dalam:
-C:/xampp/htdocs/ujian lab riskhan/
+C:/xampp/htdocs/ujian lab werry/
 ```
 
 **2. Buat folder `gambar`**
@@ -125,7 +125,7 @@ http://localhost/ujian%20lab%20riskhan/
 ```
 atau:
 ```
-http://localhost/ujian lab riskhan/
+http://localhost/ujian lab werry/
 ```
 
 ---
