@@ -86,7 +86,7 @@ C:/xampp/htdocs/ujian lab werry/
 
 Buat folder bernama `gambar` di dalam folder project untuk menyimpan gambar produk.
 ```
-ujian lab riskhan/
+ujian lab werry/
 └── gambar/   ← Buat folder ini
 ```
 
