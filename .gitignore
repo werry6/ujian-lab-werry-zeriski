@@ -1,0 +1,24 @@
+# Dependencies
+/vendor/
+
+# Environment & config sensitif
+.env
+*.env
+
+# Log files
+*.log
+
+# Folder gambar produk (upload by user, jangan di-track)
+/gambar/*
+!/gambar/.gitkeep
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
