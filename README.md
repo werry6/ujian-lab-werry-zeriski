@@ -1,4 +1,4 @@
-# 📦 Ujian Lab Riskhan — CRUD Produk
+# 📦 Ujian Lab Shizukaa — CRUD Produk
 
 Aplikasi web berbasis **PHP Native** untuk mengelola data produk menggunakan operasi **CRUD** (Create, Read, Update, Delete). Dibangun sebagai bagian dari Ujian Laboratorium menggunakan XAMPP sebagai web server lokal.
 
@@ -76,7 +76,7 @@ CREATE TABLE produk (
 **1. Clone atau copy project**
 ```bash
 # Jika menggunakan Git
-git clone https://github.com/username/ujian-lab-riskhan.git
+git clone https://github.com/shizukaudzri/ujian-lab-Shizukaa.git
 
 # Letakkan folder di dalam:
 C:/xampp/htdocs/ujian lab riskhan/
@@ -149,5 +149,5 @@ Project ini dibuat untuk tujuan ujian laboratorium. Jika ingin berkontribusi, si
 
 ## 👨‍💻 Author
 
-**Riskhan**
+**Shizukaa (shizukaudzri)**
 > Dibuat untuk Ujian Laboratorium 2024
