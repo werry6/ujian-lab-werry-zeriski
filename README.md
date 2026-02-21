@@ -1,4 +1,4 @@
-# 📦 Ujian Lab Shizukaa — CRUD Produk
+# 📦 Ujian Lab Werry Zeriski— CRUD Produk
 
 Aplikasi web berbasis **PHP Native** untuk mengelola data produk menggunakan operasi **CRUD** (Create, Read, Update, Delete). Dibangun sebagai bagian dari Ujian Laboratorium menggunakan XAMPP sebagai web server lokal.
 
@@ -29,7 +29,7 @@ Aplikasi web berbasis **PHP Native** untuk mengelola data produk menggunakan ope
 ## 📁 Struktur Folder
 
 ```
-ujian-lab-riskhan/
+ujian-lab-werry/
 ├── koneksi.php          # Konfigurasi & koneksi ke database MySQL
 ├── index.php            # Halaman utama: Daftar semua produk
 ├── tambah_produk.php    # Halaman form tambah produk
@@ -149,5 +149,5 @@ Project ini dibuat untuk tujuan ujian laboratorium. Jika ingin berkontribusi, si
 
 ## 👨‍💻 Author
 
-**Shizukaa (shizukaudzri)**
+**werry (werryzeriski)**
 > Dibuat untuk Ujian Laboratorium 2024
